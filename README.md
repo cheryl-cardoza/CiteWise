@@ -255,7 +255,7 @@ Structured sections:
 
 This is a university engineering mini-project for educational purposes.
 
-**Defendable Claims for Viva**:
+**Defendable Claims**:
 - ✅ "We use BM25, a proven classical IR algorithm"
 - ✅ "Every citation is traceable to source papers"
 - ✅ "RAG pattern ensures no hallucination"
@@ -263,7 +263,7 @@ This is a university engineering mini-project for educational purposes.
 
 **NOT Defensible**:
 - ❌ "We trained a custom LLM"
-- ❌ "System works for all academic fields"
+- ❌ "System works for all academic and technology fields"
 - ❌ "Replaces human literature review"
 
 ## 👥 Contributors
